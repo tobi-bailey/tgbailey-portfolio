@@ -1,0 +1,34 @@
+main {
+    min-height: 100vh;
+}
+/* contact me form styling */
+form{
+    background-color: white;
+    padding: 20px;
+}
+
+.col-12{
+    padding: 20px;
+}
+
+/* contact headering styling */
+h2{
+    font-family: Georgia, serif;
+    font-size: 30px;
+    color: rgba(7, 175, 175, 0.884);
+    padding-bottom: 15px;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+.container{
+    margin-left: 10px;
+    min-height: 100%;
+}
+
+/* submit button styling */
+.btn {
+    background-color: rgba(7, 175, 175, 0.884);
+    border-color: rgba(7, 175, 175, 0.884);
+    border-radius: 0 !important;
+}
+
